@@ -1,0 +1,12 @@
+{
+  "name": "node-webserver",
+  "version": "0.0.1",
+  "description": "Simple static nodejs server boilerplate",
+  "main": "app.js",
+  "repository": "git@github.com:cameronrye/node-webserver.git",
+  "author": "Cameron Rye <c@meron.io>",
+  "license": "MIT",
+  "dependencies": {
+    "node-static": "*"
+  }
+}
