@@ -10,7 +10,7 @@ yarn install
 ```sh
 yarn run start
 ```
-Navigate to http://localhost:8080/ and files from the public folder will be served
+Navigate to http://localhost:8888/ and files from the public folder will be served
 
 ## Release History
 * 0.0.1
