@@ -6,6 +6,9 @@
   "repository": "git@github.com:cameronrye/node-webserver.git",
   "author": "Cameron Rye <c@meron.io>",
   "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "node-static": "*"
   }
